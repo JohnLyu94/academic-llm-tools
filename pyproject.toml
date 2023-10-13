@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "academic-llm-tools"
+version = "0.1.0"
+description = "Happy coding for LLM-based academic tools"
+authors = ["Suxing Lyu <johnlyu94@outlook.com>"]
+license = "MIT License"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
